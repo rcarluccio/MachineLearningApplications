@@ -1,4 +1,4 @@
 #  MachineLearningApplications
-Supervised and Unsupervised Learning application to geoscience, biomedical, retail and financial problems
+Supervised and Unsupervised Learning applications for geoscience, biomedical, retail and financial problems
 
-This repository provides a series of Notebooks showing example of Machine Learning Applications
+This repository provides a series of Jupter Notebook examples of Machine Learning Applications
